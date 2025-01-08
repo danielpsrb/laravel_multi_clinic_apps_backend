@@ -32,3 +32,5 @@ Laravel Multi Clinic digunakan untuk Aplikasi Mobile Multi Klinik Telemedis berb
 [![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-6F7AB3?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/8.x/sanctum)
 
 [![Xendit](https://img.shields.io/badge/Xendit-50B5C8?style=for-the-badge&logo=xendit&logoColor=white)](https://www.xendit.co/)
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
