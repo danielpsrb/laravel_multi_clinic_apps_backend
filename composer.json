@@ -16,17 +16,17 @@
     ],
     "require": {
         "php": "^8.2",
-        "filament/filament": "^3.2",
-        "laravel/framework": "^11.31",
+        "filament/filament": "^3.3",
+        "laravel/framework": "^12.0",
         "laravel/sanctum": "^4.0",
-        "laravel/tinker": "^2.9",
-        "xendit/xendit-php": "6.0.0"
+        "laravel/tinker": "^2.10",
+        "xendit/xendit-php": "6.2"
     },
     "require-dev": {
-        "fakerphp/faker": "^1.23",
+        "fakerphp/faker": "^1.24",
         "laravel/pail": "^1.1",
-        "laravel/pint": "^1.13",
-        "laravel/sail": "^1.26",
+        "laravel/pint": "^1.21",
+        "laravel/sail": "^1.41",
         "mockery/mockery": "^1.6",
         "nunomaduro/collision": "^8.1",
         "pestphp/pest": "^3.7",
